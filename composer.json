@@ -1,5 +1,5 @@
 {
-    "name": "gicharu/fontpicker-jquery-plugin",
+    "name": "gicharu/fontpicker",
     "description": "Javascript font picker and manager",
     "type": "library",
     "require-dev": {
