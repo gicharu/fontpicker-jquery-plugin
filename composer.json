@@ -12,6 +12,6 @@
             "email": "patjayke@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
